@@ -48,7 +48,7 @@ class Example_Captcha_Model_Observer
                 'height'  => 60,
                 'imgUrl'  => Axis::getSite()->base . '/media/captcha/',
                 'imgDir'  => Axis::config('system/path') . '/media/captcha/',
-                'font'    => Axis::config('system/path') . '/media/fonts/arial.ttf'
+                'font'    => Axis::config('system/path') . '/media/fonts/Delicious-Bold.otf'
             )
         ));
 
